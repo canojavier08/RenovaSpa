@@ -1,0 +1,54 @@
+.header-image {
+    display: block;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    background: url(../img/slide3.jpg) no-repeat center center scroll;
+    border-radius: 20px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.headline h1 {
+    font-size: 100px;
+    margin-right: 30px;
+    background: #fff;
+    background: rgba(255,255,255,0.6);
+}
+
+.headline h2 {
+    font-size: 70px;
+    margin-right: 30px;
+
+    background: #fff;
+    background: rgba(255,255,255,0.6);
+}
+
+.featurette-divider {
+    margin: 80px 0;
+}
+
+.featurette {
+    overflow: hidden;
+
+ }
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+}
+
+.featurette-heading {
+    font-size: 50px;
+}
+
+.fondo{
+  background-color: rgba(199, 201, 190, 0.51);
+}
+
+.featurette-image{
+  padding: 10px;
+}
+
+ 

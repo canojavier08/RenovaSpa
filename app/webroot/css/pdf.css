@@ -1,0 +1,43 @@
+h1, h2{
+	font-weight: normal;
+	margin-bottom:0.5em;
+}
+h3{
+	text-align: center;
+	color: red;
+	font-family: helvetica;
+	font-size: 200%;
+}
+h1 {
+	background:#fff;
+	color: #003d4c;
+	font-size: 100%;
+}
+h2 {
+	background:#fff;
+	text-align: center;
+	color: blue;
+	font-family:'Gill Sans','lucida grande', helvetica, lucida, sans-serif;
+	font-size: 400%;
+}
+/** Scaffold View **/
+dl {
+	line-height: 2em;
+	margin: 0em 0em;
+	width: 100%;
+	
+}
+
+dt {
+	font-weight: bold;
+	padding-left: 8px;
+	vertical-align: top;
+	width: 15em;
+}
+dd {
+	margin-left: 10em;
+	margin-top: -2em;
+	vertical-align: top;
+	display: inline;
+}
+
